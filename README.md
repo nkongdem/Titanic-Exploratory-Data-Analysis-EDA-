@@ -4,20 +4,6 @@
 
 Exploratory data analysis of the classic Titanic dataset, uncovering the factors most linked to passenger survival through cleaning, summary statistics, and visualization.
 
-## Results
-
-**Survival count by gender**
-
-![Survival count by gender](charts/chart_4.png)
-
-**Survival count by passenger class**
-
-![Survival count by class](charts/chart_5.png)
-
-**Correlation heatmap**
-
-![Correlation heatmap](charts/chart_6.png)
-
 ## Overview
 
 This project performs Exploratory Data Analysis (EDA) on the classic Titanic dataset (Kaggle: Machine Learning from Disaster). The goal is to explore patterns in the data, understand the factors affecting passenger survival, and generate actionable insights through visualizations and summary statistics, preparing the dataset for future predictive modeling.
@@ -55,6 +41,20 @@ This project performs Exploratory Data Analysis (EDA) on the classic Titanic dat
 ├── charts/                                                # Result chart images (shown above)
 └── README.md
 ```
+
+## Results
+
+**Survival count by gender**
+
+![Survival count by gender](charts/chart_4.png)
+
+**Survival count by passenger class**
+
+![Survival count by class](charts/chart_5.png)
+
+**Correlation heatmap**
+
+![Correlation heatmap](charts/chart_6.png)
 
 ## Tools
 
